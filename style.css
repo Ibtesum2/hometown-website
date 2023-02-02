@@ -156,7 +156,7 @@ a{
 @media only screen and (min-width: 500px) {
      .sub-title {  
 
-       padding: 5px 10px;
+       width: 150px;
 
      }
      
