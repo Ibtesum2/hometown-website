@@ -153,14 +153,3 @@ a{
 
 }
 
-@media only screen and (min-width: 500px) {
-     .sub-title {  
-
-       width: 150px;
-
-     }
-     
-     .main-title{
-        padding: 8px 12px;
-     }
-}
