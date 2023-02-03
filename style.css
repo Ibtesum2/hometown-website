@@ -61,6 +61,14 @@ a{
     background: #E63946;
 }
 
+.btn:hover{
+    opacity: 0.9;
+}
+
+.btn:active{
+    opacity: 0.6;
+}
+
 .btn a:hover{
     background-color: #1D3557;
     cursor: pointer;
